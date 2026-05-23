@@ -124,16 +124,16 @@ Provides:
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview][(screenshots/dashboard_overview.png)](https://github.com/Sakshimorti/Amazon-Sales-Dashboard/blob/26eb849c51dd0a09bcd64caa5db72a1a833ca437/Screenshot/overview_dashboard.png)
+https://github.com/Sakshimorti/Amazon-Sales-Dashboard/blob/4367a5ab99f4c9683c08a9f444498f3496404257/Screenshot/overview_dashboard.png
 
 ### Product Performance Analysis
-![Product Performance](screenshots/product_performance_analysis.png)
-
+[![Product Performance](screenshots/product_performance_analysis.png)
+](https://github.com/Sakshimorti/Amazon-Sales-Dashboard/blob/4367a5ab99f4c9683c08a9f444498f3496404257/Screenshot/product_analysis_dashboard.png)
 ### Product Sales Detail View
-![Product Detail View](screenshots/product_sales_detail_view.png)
+[![Product Detail View](screenshots/product_sales_detail_view.png)](https://github.com/Sakshimorti/Amazon-Sales-Dashboard/blob/4367a5ab99f4c9683c08a9f444498f3496404257/Screenshot/product_detail_view.png)
 
 ### Monthly Sales Units Trend
-![Monthly Sales Trend](screenshots/monthly_sales_units_trend.png)
+[![Monthly Sales Trend](screenshots/monthly_sales_units_trend.png)](https://github.com/Sakshimorti/Amazon-Sales-Dashboard/blob/4367a5ab99f4c9683c08a9f444498f3496404257/Screenshot/sales_units_analysis.png)
 
 ---
 
