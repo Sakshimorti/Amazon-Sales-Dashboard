@@ -124,7 +124,7 @@ Provides:
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview][(screenshots/dashboard_overview.png)](https://github.com/Sakshimorti/Amazon-Sales-Dashboard/blob/26eb849c51dd0a09bcd64caa5db72a1a833ca437/Screenshot/overview_dashboard.png)
 
 ### Product Performance Analysis
 ![Product Performance](screenshots/product_performance_analysis.png)
